@@ -1,6 +1,6 @@
 # Solidity Contracts for Payroll
 
-[](Pictures/digital_shaking_hands.jpeg)
+![](Pictures/digital_shaking_hands.jpeg)
 
 ## Contracts
 

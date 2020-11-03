@@ -1,5 +1,7 @@
 # Solidity Contracts for Payroll
 
+[](Pictures/digital_shaking_hands.jpeg)
+
 ## Contracts
 
 [General Payroll Contract](Code/AssociateProfitSplitter.sol)
@@ -16,4 +18,4 @@
 
 ## Motivation
 
-With the trend in incorporating technology within finance, we created 3 easy to use contracts on the Ethereum Kovan network. 
+With the trend in incorporating technology within finance, we created 3 easy to use contracts on the Ethereum Kovan Test network. Depending on how you wish to pay your employees, we have a contract suited to you. 
